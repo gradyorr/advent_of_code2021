@@ -1,0 +1,3 @@
+run : 
+	chmod +x *.py
+
